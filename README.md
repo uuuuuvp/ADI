@@ -1,13 +1,13 @@
 # ADI
-测控复合信号调制系统
+  <p>测控复合信号调制系统<p>
 
 ## PCM
-  PCM Encoder with A-Law
+  <p>PCM Encoder with A-Law<p>
   
 ## BPSK / DPSK / QPSK
-  -BPSK —— base
-  -DPSK —— imporve BPSK phase problem
-  -QPSK —— more stable
+  <p>BPSKbase<br>
+  DPSKimporve BPSK phase problem<br>
+  QPSKmore stable<p>
   
 ## FM / PM 
-  demodulation with Costas or PLL
+  <p>demodulation with Costas or PLL<p>
