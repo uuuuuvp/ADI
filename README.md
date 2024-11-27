@@ -5,9 +5,9 @@
   <p>PCM Encoder with A-Law<p>
   
 ## BPSK / DPSK / QPSK
-  <p>BPSKbase<br>
-  DPSKimporve BPSK phase problem<br>
-  QPSKmore stable<p>
+  <p>BPSK: basical method<br>
+  DPSK: imporve BPSK phase problem<br>
+  QPSK: more stable<p>
   
 ## FM / PM 
   <p>demodulation with Costas or PLL<p>
