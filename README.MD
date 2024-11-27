@@ -11,3 +11,6 @@
   
 ## FM / PM 
   <p>demodulation with Costas or PLL<p>
+
+## AWGN
+  <p>add noise<p> 
